@@ -1,8 +1,5 @@
 let inputDate = Deno.args
 function calculateAge(inputDate){
-
-
-
     let today = new Date()
 
     let dd = today.getDate().toString()
